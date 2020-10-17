@@ -29,3 +29,4 @@ Outputs:
   InstanceID:
     Description: "The Instance ID"
     Value: !Ref EC2Instance
+
